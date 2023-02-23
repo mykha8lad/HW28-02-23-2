@@ -250,7 +250,7 @@ namespace HW28_02_23_2
             #endregion
 
             #region 10. Ввести пятизначное число и сдвинуть его циклически влево на 2 разряда (например, ввести число 12345 – получить и вывести 34512).
-            int number;
+            /*int number;
 
             Console.WriteLine("Введите 5-значное число");
             do
@@ -267,7 +267,7 @@ namespace HW28_02_23_2
             Console.ForegroundColor = ConsoleColor.Black;
             Console.WriteLine($"Число сдвинутое на два разряда вправо: {resultNumber}");
             Console.BackgroundColor = ConsoleColor.Black;
-            Console.ForegroundColor = ConsoleColor.White;
+            Console.ForegroundColor = ConsoleColor.White;*/
             #endregion
 
         }
